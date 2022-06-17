@@ -14,3 +14,5 @@ Watch tutorial on Youtube
 
 ## LOCAL DEVELOPMENT
 
+## GLOBAL DEVELOPMENT
+
